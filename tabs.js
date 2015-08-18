@@ -5,7 +5,7 @@ import * as dom from '../js.dom/dom';
  * @class Tabs
  * @classdesc Tabs module
  * Tabs module
- * @module Tabs
+ * @global
  */
 class Tabs {
     /**
